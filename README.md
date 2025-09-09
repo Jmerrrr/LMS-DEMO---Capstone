@@ -69,10 +69,10 @@ Since this was a **group project (4 members)**, here are the major features I pe
 - **Presenter:** Derez
 
 **Personnel Demo**  
-[![Watch the video](assets/lms-personnel.png)](https://youtu.be/ln8auFXlRk8)
+[![Watch the video](assets/lms-personnel-2.png)](https://youtu.be/ln8auFXlRk8)
 
 **Admin Demo**  
-[![Watch the video](assets/lms-admin.png)](https://youtu.be/KTptRK4Ohns)
+[![Watch the video](assets/lms-admin-2.png)](https://youtu.be/KTptRK4Ohns)
 
 
 ---
