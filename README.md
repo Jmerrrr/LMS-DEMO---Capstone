@@ -33,7 +33,8 @@ The system was adopted by **100+ personnel** and evaluated using the **ISO 25010
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js  
-- **Database & Auth:** Firebase (Firestore, Realtime DB, Firebase Auth)  
+- **Database & Auth:** Firebase (Firestore, Realtime DB, Firebase Auth)
+- **Deployment:** FIrebase Functions and Firebase Hosting 
 - **AI:** Google Cloud Gemini API  
 - **Version Control:** Git, GitHub  
 - **Methodology:** Agile, iterative prototyping  
@@ -56,15 +57,17 @@ Since this was a **group project (4 members)**, here are the major features I pe
 - **Personnel Flow:** Register/Login → Access Dashboard → Take Course → Exam → Feedback → Forum  
 - **Admin Flow:** Login → Manage Personnel & Modules → Track Compliance → Generate Reports → Review Analytics  
 
-*(Insert diagram or screenshot from your defense slides here)*
+**Personnel**
+<img width="297" height="494" alt="image" src="https://github.com/user-attachments/assets/cbd2db6f-6707-4e79-983e-43c59ac8542f" />
+
+**Admin**
+<img width="535" height="488" alt="image" src="https://github.com/user-attachments/assets/5f4ccb56-e865-4213-a4be-4901c00f0107" />
 
 ---
 
 ## 🎥 Demo
 - **Personnel Demo:** [Insert Link Here]  
 - **Admin Demo:** [Insert Link Here]  
-
-*(Add screenshots or GIFs here for quick visual reference)*
 
 ---
 
