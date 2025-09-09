@@ -67,9 +67,13 @@ Since this was a **group project (4 members)**, here are the major features I pe
 
 ## 🎥 Demo
 - **Presenter:** Derez
-- **Personnel Demo:**
--  
-- **Admin Demo:** [Insert Link Here]  
+
+**Personnel Demo**  
+[![Watch the video](assets/LMS Admin Demo Thumbnaik.png)](https://youtu.be/ln8auFXlRk8)
+
+**Admin Demo**  
+[![Watch the video](assets/LMS Personnel Demo Thumbnail.png)](https://youtu.be/KTptRK4Ohns)
+
 
 ---
 
