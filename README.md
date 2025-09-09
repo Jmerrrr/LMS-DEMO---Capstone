@@ -66,7 +66,9 @@ Since this was a **group project (4 members)**, here are the major features I pe
 ---
 
 ## 🎥 Demo
-- **Personnel Demo:** [Insert Link Here]  
+- **Presenter:** Derez
+- **Personnel Demo:**
+-  
 - **Admin Demo:** [Insert Link Here]  
 
 ---
