@@ -9,19 +9,19 @@ Built to replace manual training tracking, the system centralizes learning, enab
 ## 📌 Problem
 Training workflows were:
 
-Manual and inconsistent
-Difficult to track and evaluate
-Lacking real-time feedback and visibility
+- Manual and inconsistent
+- Difficult to track and evaluate
+- Lacking real-time feedback and visibility
 
 ---
 
 ## 💡 Solution
 Developed a centralized LMS that:
 
-Standardizes training delivery and assessment
-Provides real-time collaboration via discussion forums
-Enables performance tracking through analytics dashboards
-Integrates AI (Gemini) for real-time assistance and recommendations
+- Standardizes training delivery and assessment
+- Provides real-time collaboration via discussion forums
+- Enables performance tracking through analytics dashboards
+- Integrates AI (Gemini) for real-time assistance and recommendations
 
 ---
 
