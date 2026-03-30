@@ -1,20 +1,27 @@
 # Guardian Gauge V2 – AI-Powered Learning Management System
 
-A **data-driven Learning Management System (LMS)** built for the Philippine National Police (PNP), Bureau of Fire Protection (BFP), and Bacoor Traffic Management Department (BTMD).  
-The system modernizes personnel training with **course modules, real-time discussion forums, AI-powered recommendations, and analytics dashboards** to measure performance and compliance.
+A full-stack Learning Management System designed, built, and deployed for 100+ personnel across the Philippine National Police (PNP), Bureau of Fire Protection (BFP), and Bacoor Traffic Management Department.
+
+Built to replace manual training tracking, the system centralizes learning, enables real-time collaboration, and introduces AI-powered assistance for scalable and measurable training operations.
 
 ---
 
-## 📖 Overview
-Law enforcement training in Bacoor City was outdated, inconsistent, and lacked measurable feedback. **Guardian Gauge V2** was developed to address this problem by providing:  
-- Centralized training modules  
-- Automated exams and reporting  
-- Real-time forums for personnel collaboration  
-- AI-driven recommendations and analytics for performance evaluation  
+## 📌 Problem
+Training workflows were:
 
-The system was adopted by **100+ personnel** and evaluated using the **ISO 25010 framework**, receiving:  
-- **4.42 (Excellent)** for system quality  
-- **4.41 (Very Acceptable)** for user acceptance  
+Manual and inconsistent
+Difficult to track and evaluate
+Lacking real-time feedback and visibility
+
+---
+
+## 💡 Solution
+Developed a centralized LMS that:
+
+Standardizes training delivery and assessment
+Provides real-time collaboration via discussion forums
+Enables performance tracking through analytics dashboards
+Integrates AI (Gemini) for real-time assistance and recommendations
 
 ---
 
